@@ -1,11 +1,15 @@
 # Texture Classification using VGG Feature Correlations
 
-The aim of my project is to come up with a texture classification scheme which utilizes correlations of feature activations of a pretrained CNN, as described in [1]. 
-You can view the detailed explanations about the experiments in 
+The aim of my project is to come up with a texture classification scheme which utilizes correlations of feature activations of a pretrained CNN, as described in *Neural Style Transfer* paper of Gatys et. al.[1]. 
+
+You can find the detailed explanations about the project in [project report](report.pdf)
 
 ## Getting Started
 
+This method is tested on two texture datasets, *Textures under varying Illumination, Pose and Scale* (KTH-TIPS) [2]  and *Describable Textures Dataset* (DTD). You need to download at least one of them in order to test the
 
+* [KTH-TIPS2](http://www.nada.kth.se/cvap/databases/kth-tips/download.html)
+* [DTD](https://www.robots.ox.ac.uk/~vgg/data/dtd/)
 
 ### Prerequisites
 
