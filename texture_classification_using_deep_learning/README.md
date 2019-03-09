@@ -2,7 +2,7 @@
 
 The aim of this project is to come up with a texture classification scheme which utilizes correlations of feature activations of a pretrained CNN, as described in *Neural Style Transfer* paper of Gatys et. al.[1]. 
 
-You can find the detailed explanations about the project in [project report](report.pdf)
+You can find the detailed explanations in the [project report](report.pdf)
 
 ## Getting Started
 
